@@ -116,6 +116,49 @@ Important to ensure you can buy or sell shares easily without big price impact.
 
   * Narrow spread means less cost to trade.
   * Your stock: Bid \$80.30, Ask \$80.80 — 50 cents spread, reasonable for a large-cap stock.
+  * Absolutely! Here’s a clear explanation of **Bid** and **Ask** in stock trading:
+  * * ##### **Bid / Ask Explained**
+    * * **Bid Price**
+      * * This is the **highest price** a buyer is willing to pay for a stock at a given moment.
+      * * If you want to **sell** shares immediately, you will likely get the **bid price** because that’s what buyers are currently offering.
+
+    * **Ask Price (or Offer Price)**
+      * * This is the **lowest price** a seller is willing to accept to sell their stock right now.
+      * * If you want to **buy** shares immediately, you will likely pay the **ask price** because that’s what sellers are currently asking for.
+          
+    * * **Bid Size / Ask Size**
+      * * This tells you **how many shares** buyers want to buy (bid size) or sellers want to sell (ask size) at those prices.
+
+    * ##### Why Bid and Ask Matter:
+    * **Bid-Ask Spread:**
+
+  * The difference between the ask price and bid price is called the **spread**.
+  * **Smaller spread** = more liquidity, less cost to trade.
+  * **Larger spread** = less liquidity, potentially higher trading costs and price slippage.
+
+* **Example from your data:**
+
+  * **Bid:** 80.30 × 10 (buyers want to buy 10 shares at \$80.30)
+  * **Ask:** 80.80 × 1 (sellers want to sell 1 share at \$80.80)
+  * **Spread:** 80.80 - 80.30 = \$0.50 per share
+
+A \$0.50 spread is fairly normal for a large-cap stock with high liquidity. If the spread were \$5, it would mean buying and selling immediately costs you more.
+
+---
+
+### How it affects you:
+
+* If you **place a market order to buy**, you’ll pay the **ask price** (higher).
+* If you **place a market order to sell**, you’ll receive the **bid price** (lower).
+* If you want to avoid paying the spread, you can place **limit orders** to buy or sell at specific prices, but it may take longer to execute.
+
+---
+
+**Summary:**
+
+* **Bid = Price buyers pay if you sell now**
+* **Ask = Price sellers get if you buy now**
+* **Spread = Cost of immediacy / liquidity**
 
 ---
 
